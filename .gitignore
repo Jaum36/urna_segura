@@ -219,4 +219,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# SQLite db
 *.db
+commands.py
+
+# Key
+secret_key.py
